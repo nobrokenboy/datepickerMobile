@@ -1,7 +1,7 @@
 # datePickerMobile
  一款基于vue2.X的移动端日期时间选择组件
  
- [![GitHub issues:](https://img.shields.io/github/issues/nobrokenboy/datepickerMoible.svg)](https://github.com/nobrokenboy/datepickerMoible/stargazers)&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub forks:](https://img.shields.io/github/forks/nobrokenboy/datepickerMoible.svg)](https://github.com/nobrokenboy/datepickerMoible/stargazers)       &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub stars:](https://img.shields.io/github/stars/nobrokenboy/datepickerMoible.svg)](https://github.com/nobrokenboy/datepickerMoible/stargazers)
+ [![GitHub issues:](https://img.shields.io/github/issues/nobrokenboy/datepickerMobile.svg)](https://github.com/nobrokenboy/datepickerMobile/stargazers)&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub forks:](https://img.shields.io/github/forks/nobrokenboy/datepickerMobile.svg)](https://github.com/nobrokenboy/datepickerMobile/stargazers)           &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub stars:](https://img.shields.io/github/stars/nobrokenboy/datepickerMobile.svg)](https://github.com/nobrokenboy/datepickerMobile/stargazers)
 ## Feature
 
 ````
