@@ -65,4 +65,4 @@
   
 
 ## A Demo:
-["戳我试试呀"](http://nobrokenboy.me/datepickerMoible/index.html)或者扫我一下也可以![效果图]()
+["戳我试试呀"](http://nobrokenboy.me/datepickerMobile/index.html)或者扫我一下也可以![效果图]()
