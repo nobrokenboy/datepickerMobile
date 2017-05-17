@@ -1,0 +1,59 @@
+/*.bottomCheck{
+  -moz-animation: bottomCheck 0.2s ease 0s forwards;
+  -o-animation: bottomCheck 0.2s ease 0s forwards;
+  -webkit-animation: bottomCheck 0.2s ease 0s forwards;
+  animation: bottomCheck 0.2s ease 0s forwards;
+}
+.topCheck{
+  -moz-animation: topCheck 0.4s ease 0s forwards;
+  -o-animation: topCheck 0.4s ease 0s forwards;
+  -webkit-animation: topCheck 0.4s ease 0s forwards;
+  animation: topCheck 0.4s ease 0s forwards;
+}*/
+//底部打钩
+@-webkit-keyframes bottomCheck {
+  0%{
+    width:0;
+  }
+  50%{
+    width:0;
+  }
+  100%{
+    width:15px;
+  }
+}
+@keyframes bottomCheck {
+  0%{
+    width:0;
+  }
+  50%{
+    width:0;
+  }
+  100%{
+    width:15px;
+  }
+}
+
+//顶部打钩
+@-webkit-keyframes topCheck {
+  0%{
+    width:0;
+  }
+  50%{
+    width:0;
+  }
+  100%{
+    width:30px;
+  }
+}
+@keyframes topCheck {
+  0%{
+    width:0;
+  }
+  50%{
+    width:0;
+  }
+  100%{
+    width:30px;
+  }
+}

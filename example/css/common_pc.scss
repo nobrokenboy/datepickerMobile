@@ -1,0 +1,40 @@
+@charset "utf-8";
+$themeColor:orange;
+$themeFontFormat:微软雅黑;
+$globalBg:#eee;
+body{
+  background-color:$globalBg;
+  font-family:$themeFontFormat;
+}
+/*清除浮动*/
+.fl{
+  float:left;
+}
+.fr{
+  float:right;
+}
+.clearfix:after{
+  display:block;
+  content:".";
+  height:0;
+  visibility:hidden;
+  clear:both;
+}
+.clearfix{
+  *zoom:1;
+}
+/*设置外间距*/
+.m15{
+  margin:15px;
+}
+.p15{
+  padding:15px;
+}
+/*设置字体颜色*/
+.font-block{
+  color:black;
+}
+.font-white{
+  color:#fff;
+}
+/*设置字体大小*/

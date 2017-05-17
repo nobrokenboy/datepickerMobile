@@ -1,0 +1,6 @@
+/*引入基础的样式,决定需要具体引入哪些样式*/
+/*比如pc就引入common_pc的共有样式，mobile就引入common_m样式*/
+@charset "utf-8";
+@import "reset";
+@import "animate.min";
+@import "common_m";
