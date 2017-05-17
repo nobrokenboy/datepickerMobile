@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules",
-    "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot http://nobrokenboy.me/datepickerMoible/"
+    "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot"
   },
   "repository": {
     "type": "git",
