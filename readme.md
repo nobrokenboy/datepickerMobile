@@ -62,7 +62,15 @@
 * `dateValue(String)`:只有在datepickerType等于"common"、"date"、"month"时设置才有效，同时格式必须与datepickerType的格式相对应
 
 ## Effect Gif:
-  
+![gif效果](https://github.com/nobrokenboy/datepickerMobile/blob/gh-pages/datetimePicker.gif)
 
 ## A Demo:
-["戳我试试呀"](http://nobrokenboy.me/datepickerMobile/index.html)或者扫我一下也可以![效果图]()
+["戳我试试呀"](http://nobrokenboy.me/datepickerMobile/index.html)<br/>
+
+![扫扫试试](https://github.com/nobrokenboy/datepickerMobile/blob/gh-pages/1495087602.png)
+
+#### 如何查看demo的效果
+````
+ 1.npm install
+ 2.npm run dev
+````
