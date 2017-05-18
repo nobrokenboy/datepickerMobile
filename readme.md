@@ -65,8 +65,9 @@
 ![gif效果](https://github.com/nobrokenboy/datepickerMobile/blob/master/datetimePicker.gif)
 
 ## A Demo:
-["戳我试试呀"](http://nobrokenboy.me/datepickerMobile/index.html)
-[扫扫试试](https://github.com/nobrokenboy/datepickerMobile/blob/master/1495087602.png)
+["戳我试试呀"](http://nobrokenboy.me/datepickerMobile/index.html)<br/>
+
+![扫扫试试](https://github.com/nobrokenboy/datepickerMobile/blob/master/1495087602.png)
 
 #### 如何查看demo的效果
 ````
